@@ -1,0 +1,21 @@
+
+# Data Science and Analysis
+pandas
+numpy
+scipy
+
+
+
+# Visualization Libraries
+matplotlib
+seaborn
+plotly
+
+# Machine Learning
+scikit-learn
+
+
+
+# Web Application Framework
+streamlit
+
